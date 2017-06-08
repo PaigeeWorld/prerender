@@ -1,7 +1,7 @@
 {
   "author": "Prerender.io",
   "name": "prerender",
-  "description": "Service to prerender Javascript rendered pages for SEO",
+  "description": "PW Version: Service to prerender Javascript rendered pages for SEO",
   "version": "4.4.1",
   "license": "MIT",
   "repository": {
